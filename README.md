@@ -1,4 +1,4 @@
-# Getting Started with Create React App recent
+# Getting Started with Create React App recent Azure setting changed
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
